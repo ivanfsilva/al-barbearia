@@ -14,7 +14,7 @@
 
 Este repositório contém o projeto prático da **Barbearia Alura**, desenvolvido para consolidar os fundamentos essenciais de desenvolvimento web front-end com **HTML5** e **CSS3** puro.
 
-O objetivo principal foi construir um website institucional completo e funcional para uma barbearia tradicional, cobrindo a página inicial, catálogo de produtos/serviços e formulário de contato.
+O objetivo principal foi construir a interface estática de um website institucional para uma barbearia tradicional, estruturando a página inicial, catálogo de produtos/serviços e formulário de contato.
 
 ---
 

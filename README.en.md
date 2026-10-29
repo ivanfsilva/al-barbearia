@@ -12,7 +12,7 @@
 
 This repository contains the practical project for **Barbearia Alura**, built to solidify core web development fundamentals using pure **HTML5** and **CSS3**.
 
-The main objective was to create a complete and functional institutional website for a traditional barbershop, including a homepage, product/service catalog, and a contact form.
+The main objective was to build the static front-end interface for a traditional barbershop institutional website, structuring a homepage, product/service catalog, and a contact form.
 
 ---
 
